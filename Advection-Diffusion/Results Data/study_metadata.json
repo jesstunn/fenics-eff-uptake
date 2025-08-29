@@ -1,0 +1,26 @@
+{
+    "study_type": "AdvDiff Validation (Pe x $\\mu$) - Step $\\mu$ only",
+    "timestamp": "2025-08-29T02:04:49.118230",
+    "Pe_values": [
+        0.1,
+        1.0,
+        10
+    ],
+    "mu_factors": [
+        0.1,
+        1.0,
+        10
+    ],
+    "reference_geometry": {
+        "L_dim": 10.0,
+        "H_dim": 1.0,
+        "sulci_w_dim": 0.5,
+        "sulci_h_dim": 1.0,
+        "mesh_size_dim": 0.02,
+        "refinement_factor": 1
+    },
+    "parameters": {
+        "D_dim": 0.0003,
+        "mu_dim_base": 0.0003
+    }
+}
