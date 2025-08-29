@@ -1,0 +1,16 @@
+{
+  "study_type": "No Advection \u2014 mu Sweep",
+  "timestamp": "2025-08-29T09:27:32",
+  "mu_factors": [
+    0.1,
+    0.5,
+    1.0
+  ],
+  "baselines": {
+    "MU_DIM_NO_ADV": 0.0003,
+    "D_dim": 0.0003,
+    "H_dim": 1.0,
+    "L_dim": 10.0
+  },
+  "parameters_defaults_used": true
+}
